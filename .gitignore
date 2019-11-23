@@ -1,0 +1,5 @@
+.vscode
+.alpackages
+.alcache
+.DS_Store
+*.app
